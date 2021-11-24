@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @999999985
-- 👀 I’m interested in DSA
-- 🌱 I’m currently learning PT
-- 💞️ I’m looking to collaborate on USP
-- 📫 How to reach me @advogadohenry
