@@ -1,5 +1,3 @@
-<!-- inject:partials/header.html -->
-<!DOCTYPE html>
 <html lang="en">
   <head>
 	
@@ -75,13 +73,8 @@
 </div>
 </footer>
 
-<!-- build:js -->
-<script src="assets/js/main.js"></script>
-<!-- endbuild -->
-
 <script src="assets/js/theme.js"></script>
 
 </body>
 
 </html>
-<!-- endinject -->
