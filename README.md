@@ -72,9 +72,3 @@
     </p>
 </div>
 </footer>
-
-<script src="assets/js/theme.js"></script>
-
-</body>
-
-</html>
