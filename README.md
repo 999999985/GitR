@@ -31,7 +31,7 @@
 				Profissional jurídico com formação Executiva: Agora com um novo desafio na área de Data Science e Analytics
 			</p>
 			<p>
-				<a href="https://www.linkedin.com/in/advogadohenry/" target="_blank" class="btnghost"><i class="fa fa-linkedin"></i> MEU LINKEDIN</a>
+				<a href="http://linkedin.com/in/henry-a-l-leonel-495b903b" target="_blank" class="btnghost"><i class="fa fa-linkedin"></i> MEU LINKEDIN</a>
 				<a href="https://www.youtube.com/user/advogadohenry/" target="_blank" class="btnghost"><i class="fa fa-youtube"></i> MEU YOUTUBE</a>
 				<a href="https://github.com/999999985" target="_blank" class="btnghost"><i class="fa fa-github"></i> MEU GITHUB</a>
 			</p>
